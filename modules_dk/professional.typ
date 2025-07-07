@@ -8,14 +8,34 @@
 #cvSection("Erfaring")
 
 #cvEntry(
-  title: [Directeur de la Science des Données],
-  society: [XYZ Corporation],
-  date: [2020 - Présent],
-  logo: image("../src/logos/xyz_corp.png"),
-  location: [San Francisco, CA],
+  title: [Produktions- og lagervikar],
+  society: [JKS A/S],
+  date: [2021-2023],
+  logo: image("../src/logos/jks_logo.jpg"),
+  location: [Midtjylland, Danmark],
   description: list(
-    [Diriger une équipe de scientifiques et d'analystes de données pour développer et mettre en œuvre des stratégies axées sur les données, développer des modèles prédictifs et des algorithmes pour soutenir la prise de décisions dans toute l'organisation],
-    [Collaborer avec la direction pour identifier les opportunités d'affaires et stimuler la croissance, mettre en œuvre les meilleures pratiques en matière de gouvernance, de qualité et de sécurité des données],
   ),
-  tags: ("Exemple de tags ici", "Dataiku", "Snowflake", "SparkSQL"),
+  tags: (),
+)
+
+#cvEntry(
+  title: [Lærervikar],
+  society: [Skanderborg Realskole],
+  date: [2022],
+  logo: image("../src/logos/real.png"),
+  location: [Skanderborg, Danmark],
+  description: list(
+  ),
+  tags: (),
+)
+
+#cvEntry(
+  title: [Studieassistent],
+  society: [Teknisk Gymnasiym Skanderborg],
+  date: [2020-2021],
+  logo: image("../src/logos/gym.jpg"),
+  location: [Skanderborg, Danmark],
+  description: list(
+  ),
+  tags: (),
 )

@@ -62,7 +62,7 @@ language = "dk"
         # homepage = "jd.me.org"
         # orcid = "0000-0000-0000-0000"
         # researchgate = "John-Doe"
-        # extraInfo = "I am a cool kid"
+        extraInfo = "Aalborg" # extraInfo = "I am a cool kid"
         [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
             awesomeIcon = "chalkboard-user" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/

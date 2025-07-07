@@ -16,7 +16,7 @@
   logo: image("../src/logos/aau.jpg"),
   description: list(
     [Problem baseret læring i semesterlange gruppeprojekter.],
-    [\3. semster projekt: CMS system for KUNSTEN Museum of Art Aalborgs medie-skærme],
+    [\3. semester projekt: CMS system for KUNSTEN Museum of Art Aalborgs medie-skærme],
     [\4. semester projekt: Penguin, et kompileret programmeringsporg ned til den orginale Nintendo Game Boy]
   ),
   //tags: ["PBL", "C", "OOP", "Semantic", "System Udvikling"]
