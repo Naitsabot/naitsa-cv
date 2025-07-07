@@ -4,7 +4,7 @@
 #let cvSection = cvSection.with(metadata: metadata)
 
 
-#cvSection("Pubblicazioni")
+#cvSection("Publikationer")
 
 #cvPublication(
   bib: bibliography("../src/publications.bib"),

@@ -2,12 +2,12 @@
 
 # Set the output language
 # INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
-language = "en"
+language = "dk"
 
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
     # You can also use a custom color by hex code i.e. "#1E90FF"
-    awesome_color = "skyblue"
+    awesome_color = "#B00B1E"
 
     # Skips are for controlling the spacing between sections and entries
     before_section_skip = "1pt"
@@ -21,7 +21,7 @@ language = "en"
     #date_width = "3.6cm"
 
     [layout.fonts]
-        regular_fonts = ["Source Sans Pro", "Source Sans 3"]
+        regular_fonts = ["Source Sans 3"]
         header_font = "Roboto"
 
     [layout.header]
@@ -45,19 +45,19 @@ language = "en"
 
     # Decide if you want to inject keywords or not
     inject_keywords = true
-    injected_keywords_list = ["Data Analyst", "GCP", "Python", "SQL", "Tableau"]
+    injected_keywords_list = ["Software Engeneer", "C", "Python", "SQL", "Nim", "git", "paircoding"]
 
 [personal]
-    first_name = "John"
-    last_name = "Doe"
+    first_name = "Sebastian Haahr"
+    last_name = "Lorenzen"
 
     # The order of this section will affect how the entries are displayed
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
-        github = "yunanwg"
-        phone = "+33 6 12 34 56 78"
-        email = "john.doe@me.org"
-        linkedin = "johndoe"
+        github = "naitsabot"
+        phone = "+45 2548 7049"
+        email = "sebhlorenzen@gmail.com"
+        linkedin = "sebastian-haahr-lorenzen"
         # gitlab = "yunanwg"
         # homepage = "jd.me.org"
         # orcid = "0000-0000-0000-0000"
@@ -65,32 +65,24 @@ language = "en"
         # extraInfo = "I am a cool kid"
         [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
-            awesomeIcon = "graduation-cap" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
-            text = "PhD"
+            awesomeIcon = "chalkboard-user" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
+            text = "5. Semester Software Bachelor"
             link = "https://www.example.com"
 
 # add a new section if you want to include the language of your choice
 # i.e. [[lang.ru]]
 # each section must contains the following fields
+[lang.dk]
+    header_quote = "5. Semesters Software studerende på AAU der søger efter studiejob"
+    cv_footer = "CV"
+    letter_footer = "Følgebrev"
+
 [lang.en]
-    header_quote = "Experienced Data Analyst looking for a full time job starting from now"
+    header_quote = "5th semester Software bachelor student on Aalborg University looking for a student job"
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
-[lang.fr]
-    header_quote = "Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant"
-    cv_footer = "Résumé"
-    letter_footer = "Lettre de motivation"
 
-[lang.zh]
-    header_quote = "具有丰富经验的数据分析师，随时可入职"
-    cv_footer = "简历"
-    letter_footer = "申请信"
-
-[lang.it]
-    header_quote = "Senior data analyst attualmente disponibile per una posizione di lavoro full-time"
-    cv_footer = "Curriculum vitae"
-    letter_footer = "Lettera di presentazione"
 
  # For languages that are not written in Latin script
  # Currently supported non-latin language codes: ("zh", "ja", "ko", "ru")
