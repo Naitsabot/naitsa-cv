@@ -5,28 +5,25 @@
 
 #show: letter.with(
   metadata,
-  myAddress: "Your Address Here",
+  myAddress: "Prinsensgade 20, 9000 Aalborg",
   recipientName: "Company Name Here",
   recipientAddress: "Company Address Here",
   date: datetime.today().display(),
-  subject: "Subject: Hey!",
+  subject: "5. Semester software-bachelor studerende der søger studiejob!",
   signature: image("src/signature.png"),
 )
 
-Dear Hiring Manager,
+Hej [Hiring Manager],
 
-I am excited to submit my application for the Senior Data Analyst position at ABC Company. With over 5 years of experience in data analysis and a demonstrated track record of success, I am confident in my ability to make a valuable contribution to your team.
+I hverdagen studerer jeg softwareudvikling på Aalborg Universitet og er ved at starte på mit femte semester. Da det går godt med studiet, søger jeg efter et studiejob.
 
-In my current role as a Data Analyst at XYZ Company, I have gained extensive experience in data mining, quantitative analysis, and data visualization. Through my work, I have developed a deep understanding of statistical concepts and have become adept at using tools such as SQL, Python, and R to extract insights from complex datasets. I have also gained valuable experience in presenting complex data in a visually appealing and easily accessible manner to stakeholders across all levels of an organization.
+I min fritid er jeg kasserer hos ADSL, frivillig/udvalgsformand hos F-Klubben (begge studieforeninger) og tutor. Jeg koder også projekter, der falder mig ind, hvis de er sjove eller lærige, og forsøger mig frem med ting, jeg ikke har kendskab til, såsom Nim.
 
-I believe that my experience in data analysis makes me an ideal candidate for the Senior Data Analyst position at ABC Company. I am particularly excited about the opportunity to apply my skills to support your organization's mission and drive impactful insights. Your focus on driving innovative solutions to complex problems aligns closely with my own passion for using data analysis to drive positive change in organizations.
+Ud over dette bruger jeg tid på at lære instrumenter, cykle, planlægge ruter og andre aktiviteter, der undertiden får folk til at tro, at jeg er spejder eller surfer, (håret hjælper ikke på den front).
 
-In my current role, I have been responsible for leading data projects from initiation to completion. I work closely with cross-functional teams to identify business problems and use data to develop solutions that drive business outcomes. I have a proven track record of delivering high-quality work on time and within budget.
+I mine sidste to semesterprojekter på studiet har jeg været med til at udvikle og levere et CMS-system til Kunsten Museum of Art Aalborg ved hjælp af Spring Boot, SvelteKit og MariaDB. Derudover har vi udviklet et programmeringssprog kaldet Penguin, som kompilerer kode til SM83 Assembly, hvilket gør det muligt at køre på den originale Nintendo Game Boy.
 
-Furthermore, I have extensive experience in developing and implementing data-driven solutions that improve business operations. For example, I have implemented predictive models that have improved sales forecasting accuracy by 10%, resulting in significant cost savings. I have also developed dashboards that provide real-time insights into business performance, enabling stakeholders to make more informed decisions.
+Tak for at læse, jeg gælder mig til at hører fra jer!
 
-As a highly motivated and detail-oriented individual, I am confident that I would thrive in the fast-paced and dynamic environment at ABC Company. I am excited about the opportunity to work with a talented team of professionals and to continue developing my skills in data analysis.
-
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
-
-Sincerely,
+med venlig hilsen,
+Sebastian Haahr Lorenzen
