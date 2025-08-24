@@ -12,11 +12,11 @@
 )
 
 #cvSkill(
-  type: [ASDasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd],
-  info: [C #hBar() Python #hBar() Trunk-based Development #hBar() Pair Programming #hBar() Typst],
+  type: [Tech Udvalg],
+  info: [C #hBar() Python #hBar() Nim #hBar() JS #hBar() Java #text(0.5em)[(Sommetider)] #hBar() Trunk-based Development #hBar() Pair Programming #hBar() Typst],
 )
 
 #cvSkill(
   type: [Interesser],
-  info: [Fotografi #hBar() Vanding #hBar() Nim lang #hBar() Dårlig guitarspilleri],
+  info: [Fotografi #hBar() Vanding #hBar() Dårlig guitarspilleri #hBar() Emaljekopper],
 )
